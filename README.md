@@ -16,3 +16,23 @@ _ _ _
 
 - [3] Andriod Malware Detection: ["Android HIV: A Study of Repackaging Malware for Evading Machine-Learning Detection," in IEEE Transactions on Information Forensics and Security, vol. 15, pp. 987-1001, 2020.](to be added) 
 
+- - -
+
+### Code
+* Software Vulnerability Detection
+- [1] Deep Learning-Based Vulnerable Function Detection: A Benchmark
+- [2] Software Vulnerability Discovery via Learning Multi-domain Knowledge Bases
+
+* Network Traffica Classification
+
+* TWitter Spam Detection
+
+- - -
+
+### Demo
+
+- - -
+
+### Survey
+
+- [1] Cyber Incident Prediction
